@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Muhammet
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning image processing with python
-- 📫 How to reach me muhammetrasitkose@hotmail.com
-
+- 👋 Hi, I’m Muhammet Rasit
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning Unity Game Engine and C#
+- 📫 How to reach me: muhammetrasitkose@hotmail.com
