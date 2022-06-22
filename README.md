@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muhammet Rasit
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity Game Engine and C#
+- 🌱 I’m currently learning game development with Unity
 - 📫 How to reach me: muhammetrasitkose@hotmail.com
