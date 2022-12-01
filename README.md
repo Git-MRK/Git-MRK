@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Muhammet Rasit
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning game development with Unity
+- 👀 I’m interested in Computer Science (pretty wide, yes)
+- 🌱 I’m currently learning many things at once so its a mess around me
 - 📫 How to reach me: muhammetrasitkose@hotmail.com
